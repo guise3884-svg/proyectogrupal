@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "losevkacharonMono-Bold";
+    src: url("../fuentes/IosevkaCharonMono-bold.ttf") format ("truetype");
+    font-weight:400;
+}
+
+@font-face {
+    font-family: "losevkacharonMono-Iralic";
+    src: url("../fuentes/IosevkaCharonMono-Italic.ttf") format ("truetype");
+    font-weight:400;
+}
+
+@font-face {
+    font-family: "losevkacharonMono-MediumItalic";
+    src: url("../fuentes/IosevkaCharonMono-MediumItalic.ttf") format ("truetype");
+    font-weight:400;
+}
+
+body {
+    background-color: rgb (226, 226, 226);
+    font-family: "Roboto", sans-serif;
+}
+
+h1,
+h2 {
+    font-weight: 700;
+}
+
+p {
+    font-weight: 400;
+}
+
+
+#encabezado2{
+    font-size: 90px;
+}
